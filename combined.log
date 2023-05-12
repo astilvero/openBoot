@@ -1,0 +1,2 @@
+{"level":"info","message":"Es un mensaje de error","service":"user-service"}
+{"level":"error","message":"Se evidencia algun error","service":"user-service"}
